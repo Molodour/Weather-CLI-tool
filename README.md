@@ -1,7 +1,7 @@
 #CLI Weathern tracker
 
-## Features
-- Weather forcast in foloowing format:
+## Features weather forcast in foloowing format:
+
 - Weather in {city}:
 - Temperature:
 - Weather description:
