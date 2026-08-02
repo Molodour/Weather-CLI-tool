@@ -2,7 +2,7 @@
 
 ## Features
 - Weather forcast in foloowing format:
--Weather in {city}:
+- -Weather in {city}:
 -Temperature: 
 -Weather description:
 -Humidity:
